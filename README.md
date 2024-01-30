@@ -10,3 +10,4 @@ Passo 5 - Scrittura RAM ed esecuzione del codice comandato da Arduino: https://y
 Passo 6 - Aggiunta del clock su scheda con NE555 e refactoring codice: https://youtu.be/Sk1F04g4o2U  
 Passo 7 - Aggiunta dello Z80 PIO - Parallel Input Output: https://youtu.be/_GM3fBWz_60  
 Passo 8 - Colleghiamo un display 1602 ad una porta del PIO: https://youtu.be/cb-bPxwCO_M  
+Passo 9 - Aggiunta dello Z80 CTC - Counter Timer: https://youtu.be/WaMA73MsbgE  
