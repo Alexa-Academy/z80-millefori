@@ -11,3 +11,5 @@ Passo 6 - Aggiunta del clock su scheda con NE555 e refactoring codice: https://y
 Passo 7 - Aggiunta dello Z80 PIO - Parallel Input Output: https://youtu.be/_GM3fBWz_60  
 Passo 8 - Colleghiamo un display 1602 ad una porta del PIO: https://youtu.be/cb-bPxwCO_M  
 Passo 9 - Aggiunta dello Z80 CTC - Counter Timer: https://youtu.be/WaMA73MsbgE  
+Passo 10 - Quarzo da 6MHz su millefori: https://youtu.be/UldfmqZj3Rk  
+
